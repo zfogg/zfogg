@@ -6,5 +6,5 @@
 
 [@joopalio](https://github.com/joopal) ⇋ [@bitcmp](https://github.com/bitcamp) ⇋ [@mixmob](https://github.com/mixmob)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zfogg&count_private=true&show_icons=true&theme=tokyonight&line_height=40)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfogg&count_private=false&show_icons=true&theme=tokyonight&line_height=50)
+![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=zfogg&count_private=true&show_icons=true&theme=tokyonight&line_height=33)
+![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=zfogg&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)
