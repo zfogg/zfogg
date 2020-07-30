@@ -1,9 +1,11 @@
-### Hi there 👋
+### 👾 Zachary Fogg 🐨
 
-<!--
-**zfogg/zfogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🕸 https://zfo.gg](https://zfo.gg) ⇋ [🐙 gh://@zfogg](https://zfo.gg) ⇋ [🐦 tw://@zfogg](https://twitter.com/zfogg)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zfogg&count_private=true&show_icons=true&theme=tokyonight)]
+✨ keeps all his LEDs lit 💡 was once described as 'a snack' 🍔 mute any thread i add you to 👌🏾.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfogg&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[@joopalio](https://github.com/joopal) ⇋ [@bitcmp](https://github.com/bitcamp) ⇋ [@mixmob](https://github.com/mixmob)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zfogg&count_private=true&show_icons=true&theme=tokyonight&line_height=40)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfogg&count_private=true&show_icons=true&theme=tokyonight&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
 
