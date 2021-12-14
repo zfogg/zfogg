@@ -7,4 +7,4 @@
 [@hackclub](https://github.com/hackclub) ⇋ [@bitcmp](https://github.com/bitcamp) ⇋ [@joopal](https://github.com/joopal)
 
 [![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=zfogg&count_private=true&show_icons=true&theme=tokyonight&line_height=33&hide_rank=false)](https://github.com/zfogg?tab=repositories&q=&type=public&language=)
-[![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=zfogg&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)](https://github.com/zfogg?tab=repositories&q=&type=source&language=)
+[![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=zfogg&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default&hide=css,coffeescript)](https://github.com/zfogg?tab=repositories&q=&type=source&language=)
