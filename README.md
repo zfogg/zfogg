@@ -20,7 +20,7 @@
 * \<me@zfo.gg\>
 
 
-## 👷🏾💪🏾 Stuff I worked
+## 👷🏾💪🏾 Stuff I worked on
 
 [@bitcmp](https://github.com/bitcamp)
 [@joopal](https://github.com/joopal)
