@@ -14,8 +14,8 @@
 
 ## Currently working on
 
-[Sidechain](https://github.com/zfogg/sidechain) - A social media network for music producers, in your DAW.
-[ascii-chat](https://github.com/zfogg/ascii-chat) - Video chat in your terminal.
+* [Sidechain](https://github.com/zfogg/sidechain) - A social media network for music producers, in your DAW.
+* [ascii-chat](https://github.com/zfogg/ascii-chat) - Video chat in your terminal.
 
 ## 👷🏾💪🏾 Stuff I worked on
 
