@@ -11,11 +11,12 @@
 
 * `24BD65F25E5D7311F5FFB2D3EDDAE1DA7360D7F4`
 * `897607FA43DC66F612710AF97FE90A79F2E80ED3`
+* `F315D1B948F33B2102FBD7B6B95124621822044A`
 
-## Currently working on
+## ⌛ Currently working on 🆕
 
-* [Sidechain](https://github.com/zfogg/sidechain) - A social media network for music producers, in your DAW.
-* [ascii-chat](https://github.com/zfogg/ascii-chat) - Video chat in your terminal.
+* [ascii-chat](https://github.com/zfogg/ascii-chat) - Video chat in your terminal
+* [Sidechain](https://github.com/zfogg/sidechain) - Social network VST for your DAW
 
 ## 👷🏾💪🏾 Stuff I worked on
 
