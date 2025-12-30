@@ -7,11 +7,11 @@
 
 ✨ keeps all his LEDs lit 💡 was once described as 'a snack' 🍔 mute any thread i add you to 👌🏾.
 
-## 🔐🗝️ Keys
+## 🔐🗝️ GPG Keys
 
 * `24BD65F25E5D7311F5FFB2D3EDDAE1DA7360D7F4`
 * `897607FA43DC66F612710AF97FE90A79F2E80ED3`
-* `F315D1B948F33B2102FBD7B6B95124621822044A`
+* `F315D1B948F33B2102FBD7B6B95124621822044A` AUR packages
 
 ## ⌛ Currently working on
 
